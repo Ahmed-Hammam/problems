@@ -1,10 +1,11 @@
+package hackerrank;
 
 import java.util.Arrays;
 import java.util.OptionalLong;
 import java.util.Scanner;
 import java.util.stream.LongStream;
 
-public class mini_max_sum_problem {
+public class MiniMaxSum {
 
     static void miniMaxSum(long[] arr) {
     	// java 7 code
