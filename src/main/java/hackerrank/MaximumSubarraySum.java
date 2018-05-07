@@ -6,6 +6,7 @@ import java.util.TreeSet;
 
 // https://www.hackerrank.com/challenges/maximum-subarray-sum/problem
 // https://stackoverflow.com/questions/32309078/generate-all-contiguous-sequences-from-an-array
+// https://www.quora.com/What-is-the-logic-used-in-the-HackerRank-Maximise-Sum-problem
 
 public class MaximumSubarraySum {
 
